@@ -10,4 +10,4 @@ Forked project for practice to collaborate on the project from the local and fro
 5. [**Biblioteca**](https://github.com/LanaSweet/Biblioteca)
 Spring Project developed with Spring Tool Suite 4.8.0.RELEASE of a library service for book lending.<br>
 It consists of 3 tables for viewving the books available, readers registered and actual lendings.<br>
-![Site tables connections](https://github.com/LanaSweet/Biblioteca/blob/master/Biblioteca.JPG)
+![Site tables connections](https://github.com/LanaSweet/SvitlanaHromivchuk/blob/main/Biblioteca.jpg)
